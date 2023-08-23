@@ -17,7 +17,7 @@ Analyzing COVID-19 deaths and vaccination data from various countries all over t
 - Copying the data we got into different Excel files and visualizing it using Tableau Dashboard
 - Upload it to Tableau Public to share with other people
 
-## Key takeaways:
+## 3. Key takeaways:
 - Europe has the highest death count among continents around the world. Followed by Asia, North America, and South America.
 - The death percentage of people who get COVID-19 is 0.91 percent.
 - The United States has the highest percentage of the population infected but still less than the United Kingdom since November 2021.
